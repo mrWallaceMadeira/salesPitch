@@ -1,7 +1,7 @@
-# Computers: ?
+# Computers: A sales pitch
 For our first act as a class, please watch [this video](https://youtu.be/GdonmCgg3lE)
 
-### My sales pitch
+### My Ronco egg scrambler
 > Computer science can be daunting to most people. It is a wide ranging subject & it's pieces aren't always related. It can often feel like the Ronco egg scrambler.
 > It may make you feel stupid or just adrift in a sea of unrelated information.
 > But it is ***so important*** to understand.
