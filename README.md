@@ -14,11 +14,13 @@ All that said, you're (hopefully) here to stay for the next 5 weeks.\
 This is what we'll be doing:
 - [x] Learning the basics of writing code in Java
 - [x] Covering a few special topics in computer science: the Internet, WiFi, etc.
-This what we'll be using:
+
+This what we'll be using to do that:
 - [x] IntelliJ to write code
 - [x] GitHub to save and share code
 - [x] Microsoft Forms to take quizzes and tests
 - [x] Microsoft Teams to communicate
+
 The first week or two might feel a bit overwhelming if this is brand new to you.\
 Focus on the task at hand, not the big picture (for the moment) & please ask for help if you need it.\
 
