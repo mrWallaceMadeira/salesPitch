@@ -11,7 +11,9 @@ For our first act as a class, please watch [this video](https://youtu.be/GdonmCg
 
 ### *Dismounts soap box*
 
-This class will only touch on a small part: coding\
+This class will only touch on a small part of the wide world of computers: coding\
+We will write code in one language `Java`
+
 
 ###### Story time 
 ```
