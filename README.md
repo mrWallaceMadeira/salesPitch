@@ -9,26 +9,8 @@ For our first act as a class, please watch [this video](https://youtu.be/GdonmCg
 > already shape the way you eat, sleep and move about the world. You don't need to be Mark Zuckerberg or fall in love with coding. But I think you must understand 
 > the world around you.  In some small way, you probably agree with me (given you haven't dropped out yet). To end my pitch, please watch [this](https://www.youtube.com/watch?v=ncbb5B85sd0). You are all the next generation of leaders (politicians or not) & technology is here to stay.
 
-### *Dismounts soap box*
-
-This class will only touch on a small part of the wide world of computers: coding\
-We will write code in one language `Java`
-
-
-###### Story time 
-```
-  When I was in college, I took a computer science class for the first time.
-  
-  Me, Week 1: I should drop this course
-  Me, Week 2: I should drop this course
-  Me, Week 3: It's too late to drop this course
-  Me, Week 4: This is boring
-  Me, Week 5: Why am I learning this?
-  Me, Week 6: Why am I learning this?
-  ...
-  Me, Graduation: Degree in Computer Science
-
-```
-###### Takeaways
-  1. Don't knock it until you try it. Again. 
-  2. Computers can be boring
+### *~Dismounts soap box~*
+All that said, you're (hopefully) here to stay for the next 5 weeks.\
+This is what we'll be doing:
+- [x] Learning the basics of writing code in Java
+- [x] Covering a few special topics in computer science: the Internet, WiFi, etc.
