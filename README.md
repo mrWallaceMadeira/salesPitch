@@ -22,6 +22,6 @@ This what we'll be using to do that:
 - [x] Microsoft Teams to communicate
 
 The first week or two might feel a bit overwhelming if this is brand new to you.\
-Focus on the task at hand, not the big picture (for the moment) & please ask for help if you need it.\
+Focus on the task at hand, not the big picture (for the moment) & please ask for help if you need it.
 
 ### Time to write some `code`...
