@@ -1,5 +1,5 @@
 # Computers: A sales pitch
-For our first act as a class, please watch [this video](https://youtu.be/GdonmCgg3lE)
+:tv: &nbsp; For our first act as a class, please watch [this video](https://youtu.be/GdonmCgg3lE)
 
 ### My Ronco Egg Scrambler&nbsp;:tm:
 > Computer science can be daunting to most people. It is a wide ranging subject & it's pieces aren't always related. It can often feel like the Ronco egg scrambler.
