@@ -1,4 +1,4 @@
-# Computers: A sales pitch
+# Day 0: A sales pitch
 :tv: &nbsp; For our first act as a class, please watch [this video](https://youtu.be/GdonmCgg3lE)
 
 ### My Ronco Egg Scrambler&nbsp;:tm:
